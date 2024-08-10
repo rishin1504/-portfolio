@@ -10,10 +10,10 @@ LinkedIn : WWW.LINKEDIN.COM/IN/RISHIN15/
 </table>
 
 ### SKILLS
-Technical Skills: Helpdesk Ticketing System, IT Asset Management, Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory Management, Sales Force, User Training and Support
-<br>Operating Systems: Windows, Linux, Android, iOS
-<br>Other Skills: SLA, ISO 13485 Medical Certified Practice
-<br>Tools: VNC, Packet Tracer, Dude Monitor, Acronis, McAfee, Zoom, Teams, Office 365, BatchPatch
+Technical Skills: Helpdesk Ticketing System, IT Asset Management, Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory Management, Sales Force, User Training and Support<br>
+Operating Systems: Windows, Linux, Android, iOS<br>
+Other Skills: SLA, ISO 13485 Medical Certified Practice<br>
+Tools: VNC, Packet Tracer, Dude Monitor, Acronis, McAfee, Zoom, Teams, Office 365, BatchPatch<br>
 
 ### EXPERIENCE
 Flextronics Bukit Minyak Penang
