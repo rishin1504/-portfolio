@@ -64,12 +64,13 @@
 ### EXPERIENCE
 
 img {
+  <img src="/img/flex.jpg" alt="Flex">
   border: 1px solid #ddd;
   border-radius: 8px;
   width: 150px;
 }
 
-<img src="/img/flex.jpg" alt="Flex">
+
 
 Flextronics Bukit Minyak Penang
 Desktop Support Engineer
