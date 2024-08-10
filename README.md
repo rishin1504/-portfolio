@@ -2,18 +2,34 @@
 
 <table>
 <tr>
-<td>Location : SIMPANG AMPAT PENANG</td>
-<td>Contact : +60103792359</td>
-<td>Email : SRISHIN10@YAHOO.COM</td>
-LinkedIn : WWW.LINKEDIN.COM/IN/RISHIN15/
+<td style="color:#ffac33;">Location</td>
+<td>Simpang Ampat,Penang</td>
 </tr>
+
+<tr>
+<td style="color:#ffac33;">Contact</td>
+<td>+60103792359</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">Email</td>
+<td>srishin10@yahoo.com</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">LinkedIn</td>
+<td>https://www.linkedin.com/in/rishin15/</td>
+</tr>
+
 </table>
 
 ### SKILLS
+<table>
 Technical Skills: Helpdesk Ticketing System, IT Asset Management, Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory Management, Sales Force, User Training and Support<br>
 Operating Systems: Windows, Linux, Android, iOS<br>
 Other Skills: SLA, ISO 13485 Medical Certified Practice<br>
 Tools: VNC, Packet Tracer, Dude Monitor, Acronis, McAfee, Zoom, Teams, Office 365, BatchPatch<br>
+</table>
 
 ### EXPERIENCE
 Flextronics Bukit Minyak Penang
