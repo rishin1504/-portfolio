@@ -80,6 +80,7 @@ July 2023 - PRESENT</td>
 • Troubleshoot software, network drives, connections.
 • Manage orders for IT peripherals.
 </td>
+<td></td>
 
 
 
