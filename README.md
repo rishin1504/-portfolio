@@ -71,6 +71,7 @@
   <td>Flextronics Bukit Minyak Penang
 Desktop Support Engineer
 July 2023 - PRESENT</td>
+<td></td>
 
 <td>
 • Setup desktops, laptops, phones for new hires.
