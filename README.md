@@ -1,9 +1,13 @@
 # My Portfolio
 
-Location : SIMPANG AMPAT PENANG
-Contact : +60103792359
-Email : SRISHIN10@YAHOO.COM
+<table>
+<tr>
+<td>Location : SIMPANG AMPAT PENANG</td>
+<td>Contact : +60103792359</td>
+<td>Email : SRISHIN10@YAHOO.COM</td>
 LinkedIn : WWW.LINKEDIN.COM/IN/RISHIN15/
+</tr>
+</table>
 
 ### SKILLS
 Technical Skills: Helpdesk Ticketing System, IT Asset Management, Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory Management, Sales Force, User Training and Support
