@@ -68,10 +68,8 @@
   border: 1px solid #ddd;
   border-radius: 8px;
   width: 150px; </td>
-  <td>Flextronics Bukit Minyak Penang
-Desktop Support Engineer
-July 2023 - PRESENT</td>
-<td></td>
+  <td></td>
+
 
 <td>
 • Setup desktops, laptops, phones for new hires.
@@ -81,8 +79,13 @@ July 2023 - PRESENT</td>
 • Troubleshoot software, network drives, connections.
 • Manage orders for IT peripherals.
 </td>
-<td></td>
 
+<tr>
+  <td>Flextronics Bukit Minyak Penang
+Desktop Support Engineer
+July 2023 - PRESENT
+  </td>
+</tr>
 
 
 
