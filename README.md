@@ -62,25 +62,28 @@
 </table>
 
 ### EXPERIENCE
-  
-  <img src="/img/flex.jpg" alt="Flex">
+<table>
+<tr>  
+  <td><img src="/img/flex.jpg" alt="Flex">
   border: 1px solid #ddd;
   border-radius: 8px;
-  width: 150px;
+  width: 150px; </td>
 
-
-
-
-Flextronics Bukit Minyak Penang
-Desktop Support Engineer
-July 2023 - PRESENT
+<td>
 • Setup desktops, laptops, phones for new hires.
 • Administer LAN security.
 • Prepare IT equipment documents.
 • Register/remove users.
 • Troubleshoot software, network drives, connections.
 • Manage orders for IT peripherals.
+</td>
 
+
+Flextronics Bukit Minyak Penang
+Desktop Support Engineer
+July 2023 - PRESENT
+
+</table>
 
 DELL Bayan Lepas Penang
 Pre Sales Tech-Support
