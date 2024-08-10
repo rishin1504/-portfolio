@@ -25,10 +25,40 @@
 
 ### SKILLS
 <table>
-Technical Skills: Helpdesk Ticketing System, IT Asset Management, Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory Management, Sales Force, User Training and Support<br>
-Operating Systems: Windows, Linux, Android, iOS<br>
-Other Skills: SLA, ISO 13485 Medical Certified Practice<br>
-Tools: VNC, Packet Tracer, Dude Monitor, Acronis, McAfee, Zoom, Teams, Office 365, BatchPatch<br>
+<tr>
+<td style="color:#ffac33;">Technical Skills</td>
+<td>Office 365 Support, Printer and Peripheral Maintenance, Remote Support, Active Directory User and Computer Management</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">Operating Systems</td>
+<td>Windows, Linux, Android, iOS</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">IT Management</td>
+<td>IT Asset Management, IT Ticketing System, Vendor Management, Compliance & SOP</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">Tools</td>
+<td>VNC, Packet Tracer, Dude Monitor, Acronis, McAfee, Zoom, Teams, Office 365, BatchPatch, Sales Force</td>
+</tr>
+
+<tr>
+<td style="color:#ffac33;">Certificate</td>
+<td>Develop with Dell Career-Ready - Tech Support Professional</td>
+</tr>
+
+<tr>
+<td></td>
+<td>ISO 13485 Medical Certified Practice</td>
+</tr>
+
+
+
+
+
 </table>
 
 ### EXPERIENCE
