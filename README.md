@@ -67,10 +67,9 @@
   <td><img src="/img/flex.jpg" alt="Flex">
   border: 1px solid #ddd;
   border-radius: 8px;
-  width: 150px; </td>
-  <td></td>
-
-
+  width: 150px; 
+</td>
+ 
 <td>
 • Setup desktops, laptops, phones for new hires.
 • Administer LAN security.
@@ -85,6 +84,9 @@
 Desktop Support Engineer
 July 2023 - PRESENT
   </td>
+</tr>
+
+<tr>
 </tr>
 
 
