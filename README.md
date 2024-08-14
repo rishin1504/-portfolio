@@ -94,7 +94,7 @@ July 2023 - PRESENT
 
 <tr>
 <td>
-<img class="dell"; src="C:\Users\pnarselv\Documents\portfolio-main\img\dell.jpg">
+<img class="dell"; src="img\dell.jpg">
 </td>
 
 <td rowspan="2">
@@ -120,7 +120,7 @@ Nov 2020 - Oct 2022
 
 <tr>
 <td>
-<img class="carsem"; src="C:\Users\pnarselv\Documents\portfolio-main\img\carsem.jpg">
+<img class="carsem"; src="img\carsem.jpg">
 </td>
 
 <td rowspan="2">
