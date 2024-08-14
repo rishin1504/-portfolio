@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="https://github.com/rishin1504/portfolio/blob/main/styles.css">
+<link rel="stylesheet" type=“text/css” href="styles.css">
 <h1>My Portfolio</h1>
 
 <body>
