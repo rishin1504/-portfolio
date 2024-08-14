@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<title>Portfolio</title>
 <link rel="stylesheet" href="styles.css">
 <h1>My Portfolio</h1>
 
