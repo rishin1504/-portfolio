@@ -68,7 +68,7 @@
 
 <tr>
 <td>
-<img class="flex"; src="C:\Users\pnarselv\Documents\portfolio-main\img\flex.jpg">
+<img class="flex"; src="img\flex.jpg">
 </td>
 
 <td rowspan="2">
