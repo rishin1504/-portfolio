@@ -1,0 +1,62 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+	color: blue;
+	
+}
+
+.exp-flex-table {
+	
+	border-collapse: collapse;
+	color: black;
+	height: 10%;
+	width: 10%;
+}
+
+.flex {
+	
+	display: block;
+	border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	height: 130px;
+	width: 130px;
+}
+
+.exp-dell-table {
+	
+	border-collapse: collapse;
+	color: black;
+	height: 10%;
+	width: 10%;
+}
+
+.dell {
+	
+	display: block;
+	border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	height: 130px;
+	width: 130px;
+
+.exp-carsem-table {
+	
+	border-collapse: collapse;
+	color: black;
+	height: 10%;
+	width: 10%;
+}
+
+.carsem {
+	
+	display: block;
+	border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+	height: 130px;
+	width: 130px;
